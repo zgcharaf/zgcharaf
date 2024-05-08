@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/charaf-zguiouar/)
+[![website]](https://www.linkedin.com/in/charaf-zguiouar/)
 
 ### Languages and Tools:
 
