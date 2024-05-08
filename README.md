@@ -10,7 +10,9 @@
 
 ### Connect with me:
 
-[[LinkedIn]](https://www.linkedin.com/in/charaf-zguiouar/)
+[LinkedIn](https://www.linkedin.com/in/charaf-zguiouar/)
+[Youtube](https://www.youtube.com/channel/UCfDDPPzoU51ZixcPev7RO9g/)
+[Portfolio]([https://www.youtube.com/channel/UCfDDPPzoU51ZixcPev7RO9g/](https://sites.google.com/view/charafzguiouar/home))
 
 ### Languages and Tools:
 
