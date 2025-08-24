@@ -1,18 +1,10 @@
 # Hello, I'm Charaf 👋
 
-## I have been coding since age 15, interested in quantitative finance, computer vision, and agent-based models in economics and finance.
-- 🔭 I’m currently working on agent-based models and employed as a Data Scientist at BNP PARIBAS.
-- 🎓 Studying at Paris 1 Panthéon-Sorbonne.
-- 🌱 I’m deeply passionate about many things including biology, physics, mathematics, and philosophy.
-- 👯 I’m looking to collaborate with other programmers/data scientists.
-- 🥅 2024 Goals: Contribute to more Quant finance projects, do more courses on YouTube.
-- ⚡ Fun fact: I love to play chess and enjoy watching/doing stand-up comedy.
+
 
 ### Connect with me:
 
 [LinkedIn](https://www.linkedin.com/in/charaf-zguiouar/)
-[Youtube](https://www.youtube.com/channel/UCfDDPPzoU51ZixcPev7RO9g/)
-[Portfolio](https://www.youtube.com/channel/UCfDDPPzoU51ZixcPev7RO9g/](https://sites.google.com/view/charafzguiouar/home))
 
 ### Languages and Tools:
 
