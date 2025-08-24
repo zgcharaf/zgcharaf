@@ -1,10 +1,5 @@
-# Hello, I'm Charaf 👋
 
 
-
-### Connect with me:
-
-[LinkedIn](https://www.linkedin.com/in/charaf-zguiouar/)
 
 ### Languages and Tools:
 
