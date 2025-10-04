@@ -1,4 +1,10 @@
+### Activity (with Y-axis)
 
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zgcharaf&theme=github_dark)
+
+### Activity (with Y-axis)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zgcharaf&theme=dracula&area=true&hide_border=true&custom_title=Contribution%20Activity)
 
 
 ### Languages and Tools:
@@ -14,6 +20,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zgcharaf&layout=compact&theme=radical)
 
-### Profile Details
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zgcharaf&theme=github_dark)
