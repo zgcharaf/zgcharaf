@@ -14,3 +14,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zgcharaf&layout=compact&theme=radical)
 
+### Profile Details
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zgcharaf&theme=github_dark)
