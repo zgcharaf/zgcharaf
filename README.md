@@ -6,6 +6,18 @@ I explore financial data through statistical modelling, machine learning, and nu
 
 [LinkedIn](https://www.linkedin.com/in/charaf-zguiouar/) · [Research reports](https://github.com/zgcharaf/Publications) · [PyData Global 2025 talk](https://github.com/zgcharaf/Pydata-Global-Talk-December-2025)
 
+## Teaching at Paris 1 Panthéon-Sorbonne
+
+I teach **Applied Probability & Quantitative Reasoning** to graduate students in the Master 2 Finance Technology Data.
+
+**[Random Walks, Markov Chains & Gambler's Ruin — lecture and exercises](https://github.com/zgcharaf/Random-Walks-Recurrence-Gambler-s-Ruin-Lecture-Exercies)**
+
+A course built around probabilistic reasoning: choosing the Markov state, deriving ruin probabilities and expected stopping times, solving linear recurrences, and connecting analytical results to simulation.
+
+- **Lecture slides and worked problem sets**, including Gaussian random walks and waiting times for consecutive outcomes.
+- **Expanded notes** with derivations, recurrence and return-time distinctions, and exercises with solutions.
+- **A reproducible Python lab** comparing exact results with Monte Carlo simulation.
+
 ## Selected research and projects
 
 | Project | Research question and methods | Format |
